@@ -40,3 +40,6 @@ body {
   nav a{
         color: #fff;
   }
+  nav a:visited{
+        color:#fff;
+  }
