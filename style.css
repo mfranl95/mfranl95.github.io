@@ -11,6 +11,11 @@ body {
      font-family: 'Montserrat', sans-serif;
      font-size: 36px;
   }
+  nav {
+        position: fixed;
+        top: 2px;
+        right: 0px;
+  }
   h2 {
     color: #ab6367;
     font-family: 'Pinyon Script', cursive;
