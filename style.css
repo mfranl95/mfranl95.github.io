@@ -23,7 +23,7 @@ body {
     font-family: 'Pinyon Script', cursive;
     font-size: 24px;
   }
-  a href{
+  a {
     text-align: left;
     color: #a8755;
     font-family: 'Montserrat', sans-serif;
