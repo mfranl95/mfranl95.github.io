@@ -29,6 +29,7 @@ body {
   }
   a:link {
     color: #bc2c43;
+    font-size: 24px;
   }
   a:hover {
     color: #C8AD7F;
