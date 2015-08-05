@@ -39,6 +39,11 @@ body {
   a:visited {
     color: #EFDFBB;
   }
+  nav {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+  }
   nav a{
         color: #fff;
         text-decoration: none;
