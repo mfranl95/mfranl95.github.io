@@ -37,4 +37,6 @@ body {
   a:visited {
     color: #EFDFBB;
   }
-  
+  nav a{
+        color: #fff;
+  }
