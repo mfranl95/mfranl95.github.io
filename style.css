@@ -46,9 +46,6 @@ body {
         background-color: #eddace;
         border-radius: 5px;
         padding: 3px;
-        position: absolute;
-        top: 0px;
-        right: 0px
   }
   
   nav a:visited{
