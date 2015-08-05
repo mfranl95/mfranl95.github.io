@@ -39,7 +39,10 @@ body {
   }
   nav a{
         color: #fff;
+        text-decoration: none;
+        background-color: #eddace;
   }
+  
   nav a:visited{
         color:#fff;
   }
