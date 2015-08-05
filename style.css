@@ -1,1 +1,37 @@
-
+body {
+      background-color: #eddace;
+      color:#a8755e ;
+      font-family: 'Pinyon Script', cursive;
+      background-image: url(https://static.pexels.com/photos/1880/love-pen-bed-drinking-large.jpg);
+      background-size: cover;
+    }
+    h1 {
+    color: #a8755;
+     font-family: 'Montserrat', sans-serif;
+  }
+  h2 {
+    color: #ab6367;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 24px;
+  }
+  a href{
+    color: #a8755;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    text-decoration: underline;
+  }
+  p {
+    color:	#EFDFBB;
+  font-family: 'Montserrat', sans-serif;
+  }
+  a:link {
+    color: #bc2c43;
+  }
+  a:hover {
+    color: #C8AD7F;
+  }
+  a:visited {
+    color: #EFDFBB;
+  }
+  
