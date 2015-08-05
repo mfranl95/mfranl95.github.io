@@ -41,7 +41,8 @@ body {
         color: #fff;
         text-decoration: none;
         background-color: #eddace;
-        border-radius: 3px;
+        border-radius: 5px;
+        padding: 3px;
   }
   
   nav a:visited{
