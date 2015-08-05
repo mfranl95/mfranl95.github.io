@@ -12,6 +12,11 @@ body {
      font-family: 'Montserrat', sans-serif;
      font-size: 36px;
   }
+  nav {
+        position: fixed;
+        top: 12px;
+        left: 20px;
+  }
   
   h2 {
     color: #ab6367;
