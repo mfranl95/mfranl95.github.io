@@ -99,5 +99,7 @@ img src{
       border-style: solid;
       outline-style: ridge;
       position: fixed;
+      margin-top: 3px;
+      margin-left: 8px;
 }
 
