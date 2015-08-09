@@ -1,2 +1,2 @@
 # mfranl95.github.io
-#midterm.github.io
+#midterm-project.github.io
