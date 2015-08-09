@@ -56,7 +56,7 @@ body {
     color:	#fff;
   font-family: 'Montserrat', sans-serif;
   position: fixed;
-  top: 75px;
+  top: 142px;
   left: 200px;
   }
   a:link {
@@ -111,4 +111,9 @@ img src{
       left: 10px;
 }
 
-   
+  section {
+        border-style: ridge;
+        position: fixed;
+        top: 345px;
+        left: 300px;
+  } 
