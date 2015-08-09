@@ -7,8 +7,7 @@ body {
       opacity: 1.2;
     }
     
-    header,
-    h1 {
+    header {
           background-color: #d3d3d3;
           border-style: solid;
           border-radius: 10px;
