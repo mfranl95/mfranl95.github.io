@@ -65,10 +65,13 @@ body {
   }
   
   footer {
+        background-color: #d3d3d3;
         color: #987456;
        font-family: 'Montserrat', sans-serif;
        font-size: 18px;
        text-align: center;
+       border-style: solid;
+       margin: -15px;
   }
 
 img src {
