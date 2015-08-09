@@ -15,7 +15,7 @@ body {
   nav {
         position: fixed;
         top: 42px;
-        left: 32px;
+        right: 32px;
   }
   
   h2 {
@@ -26,7 +26,7 @@ body {
   }
   a {
     text-align: left;
-    color: #a8755;
+    color: #ab6367;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 48px;
@@ -64,6 +64,7 @@ body {
         color: #A0785A;
        font-family: 'Montserrat', sans-serif;
        font-size: 18px;
+       text-align: center;
   }
 
 head {
