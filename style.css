@@ -83,7 +83,7 @@ body {
 
 img src {
       border-radius: 8px;
-      border-style:ridge;
+      border-style: solid;
       box-shadow: 0, 0, 0, 10px;
       margin:  10px;
       width: 14px;
