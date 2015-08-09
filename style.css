@@ -86,8 +86,8 @@ body {
        border-radius: -20px;
        margin: -15px;
        position: fixed;
-       bottom: 1px;
-       right: 10px;
+       bottom: 10px;
+       right: 20px;
   }
 
 img src {
