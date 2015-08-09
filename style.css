@@ -113,6 +113,12 @@ img src{
 
   section {
         border-style: ridge;
+        border-top: 5px;
+        border-bottom: 5px;
+        border-left: 15px;
+        border-right: 15px;
+        border-color: #cd853f;
+        border-width: 10px;
         position: fixed;
         top: 238px;
         left: 362px;
