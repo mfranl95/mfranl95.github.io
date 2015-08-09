@@ -24,13 +24,13 @@ body {
      font-size: 36px;
      text-shadow: 0 -10px 22px #cd853f;
      text-transform: uppercase;
-     position: center;
+     position: fixed;
      top: 21px;
   }
   nav {
         position: fixed;
-        top: 42px;
-        right: 32px;
+        top: 12px;
+        right: 28px;
   }
   
   h2 {
