@@ -114,6 +114,12 @@ img src{
   section {
         border-style: ridge;
         position: fixed;
-        top: 345px;
-        left: 300px;
+        top: 238px;
+        left: 362px;
   } 
+  
+  ul {
+      position: fixed;
+        top: 238px;
+        left: 362px;  
+  }
