@@ -24,7 +24,7 @@ body {
      font-size: 36px;
      text-shadow: 0 -2px 36px #cd853f;
      text-transform: uppercase;
-     position: fixed;
+     position: static;
      top: 10px;
      left: 456px;
   }
@@ -50,6 +50,9 @@ body {
     font-weight: bold;
     font-size: 48px;
     text-decoration: underline;
+    position: fixed;
+    bottom: 20px;
+    left: 5px;
   }
   p {
         text-align: center;
