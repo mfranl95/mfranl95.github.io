@@ -16,6 +16,7 @@ body {
      text-shadow: 0 -10px 22px #cd853f;
      text-transform: uppercase;
      border-style: solid;
+     border-radius: 15px;
   }
   nav {
         position: fixed;
@@ -84,4 +85,3 @@ img src {
       height: 18px;
 }
 
-background opacity: 1;
