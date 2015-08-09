@@ -22,6 +22,9 @@ body {
         position: fixed;
         top: 42px;
         right: 32px;
+        border-style: solid;
+        border-radius: 15px;
+        background-color: #d3d3d3;
   }
   
   h2 {
