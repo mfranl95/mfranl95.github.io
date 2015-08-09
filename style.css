@@ -7,7 +7,8 @@ body {
       opacity: 1.2;
     }
     
-    header {
+    header,
+    h1 {
           background-color: #d3d3d3;
           border-style: solid;
           border-radius: 15px;
@@ -21,8 +22,6 @@ body {
      font-size: 36px;
      text-shadow: 0 -10px 22px #cd853f;
      text-transform: uppercase;
-     border-style: solid;
-     border-radius: 15px;
   }
   nav {
         position: fixed;
