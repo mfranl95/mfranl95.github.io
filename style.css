@@ -15,6 +15,7 @@ body {
      font-size: 36px;
      text-shadow: 0 -10px 22px #cd853f;
      text-transform: uppercase;
+     border-style: solid;
   }
   nav {
         position: fixed;
