@@ -7,6 +7,12 @@ body {
       opacity: 1.2;
     }
     
+    header {
+          background-color: #d3d3d3;
+          border-style: solid;
+          border-radius: 15px;
+    }
+    
     h1 {
           text-align: center;
           background-color: #d3d3d3;
@@ -22,9 +28,6 @@ body {
         position: fixed;
         top: 42px;
         right: 32px;
-        border-style: solid;
-        border-radius: 15px;
-        background-color: #d3d3d3;
   }
   
   h2 {
