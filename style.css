@@ -25,7 +25,7 @@ body {
      text-shadow: 0 -2px 36px #cd853f;
      text-transform: uppercase;
      position: fixed;
-     top: 64x;
+     top: 84px;
      left: 456px;
   }
   nav {
@@ -126,6 +126,6 @@ img src{
   
   strong {
       position: fixed;
-        top: 520px;
-        left: 7px;  
+        top: 609px;
+        left: 12px;  
   }
