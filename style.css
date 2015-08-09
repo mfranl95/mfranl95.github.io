@@ -11,11 +11,11 @@ body {
     h1 {
           background-color: #d3d3d3;
           border-style: solid;
+          border-radius: 10px;
     }
     
     h1 {
           text-align: center;
-          background-color: #d3d3d3;
     color: #987456;
      font-family: 'Montserrat', sans-serif;
      font-size: 36px;
