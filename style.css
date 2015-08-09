@@ -39,6 +39,9 @@ body {
     color: #fff;
     font-family: 'Satisfy', cursive;
     font-size: 30px;
+    position: fixed;
+    top: 20px;
+    left: 458px;
   }
   a {
     text-align: left;
