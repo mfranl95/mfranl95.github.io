@@ -68,6 +68,7 @@ body {
   }
 
 img src {
+      border: 6px ridge #987456;
       margin:  10px;
       width: 14px;
       height: 18px;
