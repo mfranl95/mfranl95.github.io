@@ -11,6 +11,7 @@ body {
     color: #987456;
      font-family: 'Montserrat', sans-serif;
      font-size: 36px;
+     text-shadow: 0 -18px 24px #cd853f;
   }
   nav {
         position: fixed;
@@ -68,7 +69,9 @@ body {
   }
 
 img src {
-      border: 6px ridge #987456;
+      border-radius: 8px;
+      border-style:ridge;
+      box-shadow: 0, 0, 0, 10px;
       margin:  10px;
       width: 14px;
       height: 18px;
