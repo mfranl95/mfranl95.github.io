@@ -20,6 +20,8 @@ body {
      font-size: 36px;
      text-shadow: 0 -10px 22px #cd853f;
      text-transform: uppercase;
+     position: center;
+     top: 42px;
   }
   nav {
         position: fixed;
