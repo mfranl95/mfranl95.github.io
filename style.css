@@ -63,3 +63,7 @@ body {
        font-family: 'Montserrat', sans-serif;
        font-size: 18px;
   }
+
+img {
+      text-align: left;
+}
