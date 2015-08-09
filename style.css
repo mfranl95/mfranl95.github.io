@@ -55,6 +55,9 @@ body {
         text-align: center;
     color:	#fff;
   font-family: 'Montserrat', sans-serif;
+  position: fixed;
+  top: 75px;
+  left: 200px;
   }
   a:link {
     color: #fff;
