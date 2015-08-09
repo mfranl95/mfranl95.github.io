@@ -24,8 +24,8 @@ body {
      font-size: 36px;
      text-shadow: 0 -2px 36px #cd853f;
      text-transform: uppercase;
-     position: static;
-     top: 10px;
+     position: fixed;
+     top: 64x;
      left: 456px;
   }
   nav {
@@ -120,8 +120,8 @@ img src{
         border-color: #cd853f;
         border-width: 10px;
         position: fixed;
-        top: 238px;
-        left: 362px;
+        top: 269px;
+        left: 676px;
   } 
   
   strong {
