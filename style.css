@@ -82,11 +82,12 @@ body {
   }
 
 img src {
-      border-radius: 8px;
-      border-style: solid;
       box-shadow: 0, 0, 0, 10px;
       margin:  10px;
       width: 14px;
       height: 18px;
+       border-radius: 8px;
+      border-style: solid;
+      outline-style: ridge;
 }
 
