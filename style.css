@@ -95,24 +95,9 @@ body {
        position: fixed;
        bottom: 10px;
        right: 20px;
-  }
-
-img src{
-      box-shadow: 0, 0, 0, 10px;
-      margin:  10px;
-      width: 14px;
-      height: 18px;
-       border-radius: 8px;
-      border-style: solid;
-      outline-style: ridge;
-      position: fixed;
-      margin-top: 3px;
-      margin-left: 8px;
-      top: 8px;
-      left: 10px;
 }
 
-  section {
+  img {
         border-style: ridge;
         border-radius: -183px;
         border-color: #cd853f;
