@@ -50,6 +50,9 @@ body {
     font-weight: bold;
     font-size: 48px;
     text-decoration: underline;
+    position: fixed;
+    top: 150px;
+    left: 396px;
   }
     p {
         text-align: justify;
