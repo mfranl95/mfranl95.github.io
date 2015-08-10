@@ -109,7 +109,7 @@ body {
   
   strong {
       position: fixed;
-        top: 760px;
+        bottom: 760px;
         left: 12px;  
   }
 
