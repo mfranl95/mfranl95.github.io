@@ -5,7 +5,7 @@ body {
       background-image: url(https://static.pexels.com/photos/6872/cold-snow-nature-weather.jpg);
       background-size: cover;
       opacity: 1.2;
-      transition: all;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
     }
     
     header {
