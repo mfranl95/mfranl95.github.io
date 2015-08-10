@@ -112,5 +112,10 @@ body {
         left: 12px;  
   }
 
-
+p,
+a {
+      position: fixed;
+      top: 203px;
+      left: 703px;
+}
 
