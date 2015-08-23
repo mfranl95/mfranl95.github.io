@@ -119,8 +119,8 @@ body {
 table {
       border: 3px ridge #987456;
       position: fixed;
-      top: 72px;
-      left: 24px;
+      top: 217px;
+      left: 534px;
       border-collapse: collapse;
 }
 
@@ -133,4 +133,5 @@ tr {
       color: #fff;
       font-size: 24px;
       font: 'Monsterrat', sans-serif;
+      border-collapse: collapse;
 }
