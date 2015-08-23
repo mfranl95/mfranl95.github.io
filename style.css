@@ -151,10 +151,11 @@ tr:nth-child (4) {
 tr:nth-child(5) {
       color: #fff;
       font: 'Monsterrat', sans-serif;
-      font-size: 56px;
+      font-size: 44px;
       font-weight: bold;
 }
 
 tr: nth-child (6) {
       border-bottom-width: 18px;
+      font-size: 36px;
 }
