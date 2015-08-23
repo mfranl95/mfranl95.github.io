@@ -135,3 +135,9 @@ tr {
       font: 'Monsterrat', sans-serif;
       border-collapse: collapse;
 }
+
+caption {
+     color: #fff;
+      font-size: 36px;
+      font: 'Monsterrat', sans-serif  
+}
