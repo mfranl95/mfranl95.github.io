@@ -128,3 +128,8 @@ td {
       border: 1px solid #987456;
       border-collapse: collapse;
 }
+
+tr {
+      color: #fff;
+      font-size: 24px;
+}
