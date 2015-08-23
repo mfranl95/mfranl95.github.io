@@ -117,11 +117,10 @@ body {
   }
 
 table {
-      vertical-align: center;
       outline: 3px ridge #987456;
       position: fixed;
       top: 72px;
       left: 24px;
-      
+      border-collapse: collapse;
 }
 
