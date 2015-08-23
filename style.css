@@ -117,10 +117,14 @@ body {
   }
 
 table {
-      outline: 3px ridge #987456;
+      border: 3px ridge #987456;
       position: fixed;
       top: 72px;
       left: 24px;
       border-collapse: collapse;
 }
 
+td {
+      border: 1px solid #987456;
+      border-collapse: collapse;
+}
