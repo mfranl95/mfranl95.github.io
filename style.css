@@ -122,7 +122,8 @@ table {
       top: 217px;
       left: 0;
       border-collapse: collapse;
-      border-bottom-width: 18px;
+      width: 90%;
+      height: 40px;
 }
 
 td {
