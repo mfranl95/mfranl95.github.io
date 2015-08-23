@@ -120,7 +120,7 @@ table {
       border: 3px ridge #987456;
       position: fixed;
       top: 217px;
-      left: 534px;
+      left: 0;
       border-collapse: collapse;
       border-bottom-width: 18px;
 }
