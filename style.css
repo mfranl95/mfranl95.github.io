@@ -100,10 +100,6 @@ body {
 }
 
   section {
-        border-style: ridge;
-        border-radius: -183px;
-        border-color: #cd853f;
-        border-width: 8px;
         position: fixed;
         top: 292px;
         left: 548px;
