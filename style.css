@@ -107,6 +107,7 @@ body {
         position: fixed;
         top: 292px;
         left: 548px;
+        background-color: #987456;
   } 
   
   strong {
@@ -177,6 +178,4 @@ color: #987456;
 font-weight: bold;
 }
 
-section nth-child (2) {
-      background-color: brown;
-}
+
