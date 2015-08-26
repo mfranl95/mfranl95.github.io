@@ -5,6 +5,7 @@ body {
       background-image: url(https://static.pexels.com/photos/6872/cold-snow-nature-weather.jpg);
       background-size: cover;
       opacity: 1.2;
+      margin: 0;
     }
     
     header {
@@ -177,7 +178,10 @@ font-weight: bold;
 }
 
 section:nth-child (2) {
+      position: fixed;
+      top: 325px;
+      text-align: center;
       background-color: #987456;
-      height: 40px;
+      height: 189px;
       width: 100%;
 }
