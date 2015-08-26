@@ -176,3 +176,7 @@ font-size: 36px;
 color: #987456;
 font-weight: bold;
 }
+
+section nth-child (2) {
+      background-color: brown;
+}
