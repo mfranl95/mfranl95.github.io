@@ -103,6 +103,9 @@ body {
         position: fixed;
         top: 292px;
         left: 548px;
+       background-color: #987456;
+      height: 40px;
+      width: 100%;
   } 
   
   strong {
