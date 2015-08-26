@@ -102,7 +102,7 @@ body {
   
   strong {
       position: fixed;
-        bottom: 59px;
+        bottom: -35px;
         left: 12px;  
         color: #deb887;
   }
