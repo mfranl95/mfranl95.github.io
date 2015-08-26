@@ -100,6 +100,8 @@ body {
 }
 
   section {
+        position: fixed;
+        top: 292px;
        text-align: center;
        background-color: #987456;
       height: 70px;
