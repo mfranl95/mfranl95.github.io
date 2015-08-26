@@ -15,6 +15,7 @@ body {
           position: relative;
           transition: width 2s, height 2s, background-color 2s, transform 2s;
           transition-duration: 1s;
+          width: 100%;
     }
     
     h1 {
