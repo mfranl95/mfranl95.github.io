@@ -177,6 +177,8 @@ color: #987456;
 font-weight: bold;
 }
 
-section {
+section:nth-child (2) {
       background-color: #987456;
+      height: 40px;
+      width: 100%;
 }
