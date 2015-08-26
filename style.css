@@ -99,15 +99,6 @@ body {
        bottom: 10px;
        right: 20px;
 }
-
-  section {
-        position: fixed;
-        top: 292px;
-       text-align: center;
-       background-color: #987456;
-      height: 70px;
-      width: 100%;
-  } 
   
   strong {
       position: fixed;
