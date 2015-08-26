@@ -107,7 +107,6 @@ body {
         position: fixed;
         top: 292px;
         left: 548px;
-        background-color: #987456;
   } 
   
   strong {
@@ -178,4 +177,6 @@ color: #987456;
 font-weight: bold;
 }
 
-
+section id {
+      background-color: #987456;
+}
