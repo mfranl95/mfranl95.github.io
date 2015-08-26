@@ -185,3 +185,9 @@ section:nth-child (2) {
       height: 250px;
       width: 100%;
 }
+
+section a {
+      color: #fff;
+      border: 1px solid #d3d3d3;
+      padding: 20px;
+}
