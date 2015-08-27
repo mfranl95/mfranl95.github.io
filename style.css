@@ -190,6 +190,7 @@ section#work {
 section#work {
   position: fixed;
   top: 404px;
+  left: 0;
   text-align: center;
   background-color: #987456;
   color: #fff;
