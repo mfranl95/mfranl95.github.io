@@ -196,3 +196,7 @@ section#work {
   color: #fff;
   text-decoration: none;
 }
+
+#video {
+      background-size: cover;
+}
