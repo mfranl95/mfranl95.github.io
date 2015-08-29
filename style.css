@@ -197,6 +197,10 @@ section#work {
   text-decoration: none;
 }
 
-#video {
-      background-size: cover;
+div {
+      height: 350px;
+}
+
+video {
+      width: 100%;
 }
