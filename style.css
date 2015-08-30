@@ -202,3 +202,9 @@ section#work {
   color: #987456;
   text-decoration: none;
 }
+
+section#gala {
+      position: fixed;
+      top: 292px;
+      left: 656px;
+}
