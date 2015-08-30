@@ -208,3 +208,9 @@ section#gala {
       top: 292px;
       left: 656px;
 }
+
+div {
+      position: fixed;
+      top: 292px;
+      left: 656px;
+}
