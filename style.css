@@ -174,12 +174,11 @@ font-weight: bold;
 
 section#work {
   position: relative;
-  
-  background: -webkit-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(243,226,199,0.97) 56%, rgba(182,141,76,0.95) 98%, rgba(233,212,179,0.95) 100%);
-background: -o-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(243,226,199,0.97) 56%, rgba(182,141,76,0.95) 98%, rgba(233,212,179,0.95) 100%);
-background: -ms-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(243,226,199,0.97) 56%, rgba(182,141,76,0.95) 98%, rgba(233,212,179,0.95) 100%);
-background: linear-gradient(to right, rgba(243,226,199,1) 0%, rgba(243,226,199,0.97) 56%, rgba(182,141,76,0.95) 98%, rgba(233,212,179,0.95) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3e2c7', endColorstr='#e9d4b3', GradientType=1 );
+ background: -webkit-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* W3C */
 }
 
 section#work {
