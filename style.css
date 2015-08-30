@@ -214,4 +214,5 @@ div {
       top: 292px;
       left: 656px;
       border: 3px solid #987456;
+      border-bottom: 0;
 }
