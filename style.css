@@ -38,7 +38,7 @@ body {
   nav {
         position: fixed;
         top: 17px;
-        right: 28px;
+        right: 60px;
   }
   
   h2 {
@@ -222,7 +222,7 @@ article {
 }
 
 iframe {
-      width: 100%;
+      width: 80%;
       height: 500px;
       margin: 0 auto;
       display: block;
