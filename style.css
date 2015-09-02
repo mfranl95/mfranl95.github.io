@@ -215,3 +215,10 @@ div {
       border: 3px solid #987456;
       border-bottom: 0;
 }
+
+.video {
+      height: 250px;
+}
+video {
+      width: 100%;
+}
