@@ -208,7 +208,7 @@ section#gala {
       left: 656px;
 }
 
-div {
+article {
       position: fixed;
       top: 292px;
       left: 656px;
@@ -216,7 +216,7 @@ div {
       border-bottom: 0;
 }
 
-.video {
+div {
       height: 250px;
 }
 video {
