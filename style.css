@@ -222,12 +222,13 @@ article {
 }
 
 iframe {
+      position: fixed;
+      top: 420px;
+      left: 248px;
       width: 80%;
       height: 500px;
       margin: 0 auto;
       display: block;
-      position: fixed;
-      top: 420px;
 }
 
 nav btn {
