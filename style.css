@@ -116,6 +116,7 @@ body {
         color: #fff;
         text-decoration: none;
         background-color: #cd853f;
+        display: inline;
   }
 
 table {
