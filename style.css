@@ -112,8 +112,12 @@ body {
   strong {
       position: fixed;
         top: 93px;
-        right: 25px;  
-        color: #deb887;
+        right: 35px;  
+         color: #fff;
+        text-decoration: none;
+        background-color: #cd853f;
+        border-radius: 5px;
+        padding: 3px;
   }
 
 table {
