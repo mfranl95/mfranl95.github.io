@@ -228,7 +228,7 @@ iframe {
       display: block;
 }
 
-btn {
+nav btn {
   -webkit-border-radius: 12;
   -moz-border-radius: 12;
   border-radius: 18px;
