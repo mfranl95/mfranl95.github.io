@@ -226,6 +226,8 @@ iframe {
       height: 500px;
       margin: 0 auto;
       display: block;
+      position: fixed;
+      top: 420px;
 }
 
 nav btn {
