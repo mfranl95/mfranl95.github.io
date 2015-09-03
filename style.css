@@ -228,3 +228,14 @@ iframe {
       display: block;
 }
 
+iclass {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  background: #cfba9b;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
