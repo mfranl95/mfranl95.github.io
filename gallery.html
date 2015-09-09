@@ -10,6 +10,11 @@
  <link href='style.css' rel='stylesheet'>
  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.1/js/lightgallery.js"></script>
+ <script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightgallery").lightGallery(); 
+    });
+</script>
 </head>
 <header><img src="http://i.imgur.com/f246AsW.gif"  alt="my logo" title="Mikeala Francis Logo" width="150">
 <h2>A girl who simply enjoys the creative things in life.</h2>
@@ -21,6 +26,15 @@
    </strong>
 </header>
 <body>
+ <div id="lightgallery">
+  <a href="http://i.imgur.com/bEufb8C.gif">
+      <img src="http://i.imgur.com/bEufb8C.gif" />
+  </a>
+  <a href="http://i.imgur.com/JToaZUq.gif">
+      <img src="http://i.imgur.com/JToaZUq.gif" />
+  </a>
+  ...
+</div>
  <style>
   table {
       position: fixed;
