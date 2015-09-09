@@ -248,3 +248,13 @@ nav btn {
   text-decoration: none;
   width: 70%;
 }
+
+#lightgallery {
+      border: 3px ridge #987456;
+      position: fixed;
+      top: 217px;
+      left: 3px;
+      border-collapse: collapse;
+      width: 90%;
+      height: 40px;
+}
