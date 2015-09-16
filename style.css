@@ -264,3 +264,9 @@ nav btn {
       width: 0%;
       height: 20px;
     }
+
+.twitter-timeline {
+  position: fixed;
+  top: 258px;
+  left: 20px;
+}
