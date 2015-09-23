@@ -261,18 +261,9 @@ nav btn {
 #twitter-timeline {
   position: fixed;
   top: 258px;
-  left: 20px;
+  left: 450px;
 }
 
-
-
-div#twitter-timeline {
-      display:inline-block;
-      position:fixed;
-      top: 256px;
-      left: 450px;
-      width:100%;
-}
 
 
 
