@@ -270,3 +270,17 @@ nav btn {
   top: 258px;
   left: 20px;
 }
+
+iframe#snap-widget {
+      position: fixed;
+      top: 256px;
+      left: 921px;
+}
+
+div#twitter-timeline {
+      display:inline-block;
+      position:fixed;
+      top: 256px;
+      left: 450px;
+      width:100%;
+}
