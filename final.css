@@ -63,3 +63,10 @@
      font-size: 15px;
     margin-bottom: 13px;    
 }
+
+footer {
+  font-family: 'Shift', sans-serif;
+  font-size: 24px;
+  text-align: right;
+  color: #fff;
+}
