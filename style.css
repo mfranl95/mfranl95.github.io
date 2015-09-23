@@ -284,3 +284,10 @@ div#twitter-timeline {
       left: 450px;
       width:100%;
 }
+
+section#image {
+      position: fixed;
+      top: 256px;
+      left: 923px;
+      text-align: center;
+}
