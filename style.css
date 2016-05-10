@@ -9,8 +9,8 @@ body {
     }
     
     header {
-          background-color: #d3d3d3;
-          border: -8px solid #d3d3d3;
+          background-color: #ffffff;
+          border: 0px solid #ffffff;
          margin: 1px 0px -139px;
           position: absolute;
           transition: width 2s, height 2s, background-color 2s, transform 2s;
