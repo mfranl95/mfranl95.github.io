@@ -81,13 +81,11 @@ body {
   }
   
   footer {
-        background-color: #d3d3d3;
-        color: #987456;
+       
+        color: #000000;
        font-family: 'Montserrat', sans-serif;
        font-size: 18px;
        text-align: center;
-       border-style: solid;
-       border-radius: -20px;
        margin: -15px;
        position: fixed;
        bottom: 10px;
