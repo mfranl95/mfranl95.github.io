@@ -9,11 +9,6 @@ body {
     }
     
     header {
-         margin: 1px 0px -139px;
-          position: absolute;
-          transition: width 2s, height 2s, background-color 2s, transform 2s;
-          transition-duration: 1s;
-          width: 100%;
         background: -webkit-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Chrome 10+, Saf5.1+ */
   background:    -moz-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* FF3.6+ */
   background:     -ms-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* IE10 */
