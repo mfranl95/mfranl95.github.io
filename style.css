@@ -9,7 +9,6 @@ body {
     }
     
     header {
-          background-color: transparent;
          margin: 1px 0px -139px;
           position: absolute;
           transition: width 2s, height 2s, background-color 2s, transform 2s;
@@ -25,10 +24,9 @@ body {
     
     h1 {
           text-align: center;
-    color: #000000;
+    color: #987456;
      font-family: 'Montserrat', sans-serif;
      font-size: 36px;
-     text-shadow: 0 -2px 36px #cd853f;
      text-transform: uppercase;
      position: fixed;
      top: 72px;
