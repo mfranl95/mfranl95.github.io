@@ -62,7 +62,7 @@ body {
     font-size: 24px;
   }
   a:hover {
-    color: #C8AD7F;
+    color: #ffffff;
   }
   a:visited {
     color: #EFDFBB;
@@ -71,7 +71,7 @@ body {
   nav a{
         color: #fff;
         text-decoration: none;
-        background-color: #cd853f;
+        background-color: #00000;
         border-radius: 5px;
         padding: 3px;
   }
