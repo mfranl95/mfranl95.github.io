@@ -69,11 +69,10 @@ body {
   }
  
   nav a{
-        color: #fff;
+        color: #0000;
+        font-family: 'Roboto', sans-serif; 
+        font-size: 18px;
         text-decoration: none;
-        background-color: #00000;
-        border-radius: 5px;
-        padding: 3px;
   }
   
   nav a:visited{
