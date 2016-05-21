@@ -8,9 +8,12 @@ body {
     
     header {
     
-background: #eacda3; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #eacda3 , #d6ae7b); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #eacda3 , #d6ae7b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -moz-linear-gradient(left, rgba(255,245,199,1) 0%, rgba(247,216,170,1) 21%, rgba(226,197,163,1) 58%, rgba(234,202,163,1) 93%, rgba(208,197,177,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,245,199,1)), color-stop(21%, rgba(247,216,170,1)), color-stop(58%, rgba(226,197,163,1)), color-stop(93%, rgba(234,202,163,1)), color-stop(100%, rgba(208,197,177,1)));
+background: -webkit-linear-gradient(left, rgba(255,245,199,1) 0%, rgba(247,216,170,1) 21%, rgba(226,197,163,1) 58%, rgba(234,202,163,1) 93%, rgba(208,197,177,1) 100%);
+background: -o-linear-gradient(left, rgba(255,245,199,1) 0%, rgba(247,216,170,1) 21%, rgba(226,197,163,1) 58%, rgba(234,202,163,1) 93%, rgba(208,197,177,1) 100%);
+background: -ms-linear-gradient(left, rgba(255,245,199,1) 0%, rgba(247,216,170,1) 21%, rgba(226,197,163,1) 58%, rgba(234,202,163,1) 93%, rgba(208,197,177,1) 100%);
+background: linear-gradient(to right, rgba(255,245,199,1) 0%, rgba(247,216,170,1) 21%, rgba(226,197,163,1) 58%, rgba(234,202,163,1) 93%, rgba(208,197,177,1) 100%);
         
 
         
