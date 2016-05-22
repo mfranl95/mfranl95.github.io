@@ -257,6 +257,9 @@ ul {
 
 li {
       float:left;
+      position: fixed;
+        top: 17px;
+        right: 28px;
 }
 
 li a{
