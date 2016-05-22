@@ -253,6 +253,9 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    position: fixed;
+        top: 17px;
+        right: 28px;
 }
 
 li {
