@@ -1,0 +1,96 @@
+body{
+	background-color: #d1e0d7;
+}
+
+img{
+	border: 12px solid white;
+	border-bottom: 166px solid white;
+	border-radius: 3px;
+	position: absolute;
+	left: 250px;
+	top: 100px;
+}
+
+header nav {
+	background-color: beige;
+	color: black;
+	font-family: "libre_baskervillebold";
+	font-size: 32px;
+	display: inline;
+	position: absolute;
+	left: -22px;
+	width: 100%;
+	text-align: center;
+	margin: 20px;
+	text-decoration: none;
+}
+
+a{
+	background-color: beige;
+	color: #d1e0d7;
+	font-family: "libre_baskervillebold";
+	font-size: 26px;
+	display: inline;
+	width: 100%;
+	text-align: center;
+	margin: 10px;
+	text-decoration: none;
+	letter-spacing: 2px;
+}
+
+
+
+.wedding h1{
+	font-family: 'tangerinebold';
+	font-size: 78px;
+	color: white;
+	position: absolute;
+	left: 374px;
+	top: 596px;
+
+}
+
+
+.wedding p{
+	font-family: "england_hand_dbregular";
+	font-size: 24px;
+	color: #a7a8a1;
+	position: absolute;
+	left: 480px;
+	top: 720px;
+}
+
+.ceremony h1{
+	font-family: "cac_champagne-webfont";
+	font-size: 36px;
+	color: white;
+	position: absolute;
+	left: 482px;
+	top: 850px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 2px 1px 2px black;
+}
+
+.ceremony ul{
+	font-family: "cac_champagne-webfont";
+	font-size: 24px;
+	color: white;
+	position: absolute;
+	left: 352px;
+	top: 910px;
+	text-transform: none;
+	letter-spacing: 2px;
+	list-style-type: none;
+	text-align: center;
+}
+
+hr{
+	color: white;
+	width: 100%;
+	position: absolute;
+	top: 849px;
+	height: 12px;
+        
+
+}
