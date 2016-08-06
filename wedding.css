@@ -14,7 +14,7 @@ img{
 header nav {
 	background-color: beige;
 	color: black;
-	font-family: "libre_baskervillebold";
+	font-family: "essones-display";
 	font-size: 38px;
 	display: inline;
 	position: absolute;
@@ -28,7 +28,7 @@ header nav {
 a{
 	background-color: beige;
 	color: #d1e0d7;
-	font-family: "libre_baskervillebold";
+	font-family: "essones-display";
 	font-size: 26px;
 	display: inline;
 	width: 100%;
@@ -51,7 +51,7 @@ a{
 }
 
 .ceremony h1{
-	font-family: "cac_champagne-webfont";
+	font-family: "essones-display";
 	font-size: 36px;
 	color: white;
 	position: absolute;
@@ -63,7 +63,7 @@ a{
 }
 
 .ceremony ul{
-	font-family: "cac_champagne-webfont";
+	font-family: "essones-display";
 	font-size: 24px;
 	color: white;
 	position: absolute;
