@@ -45,7 +45,7 @@ a{
 	font-size: 100px;
 	color: #d1e0d7;
 	position: absolute;
-	left: 732px;
+	left: 698px;
 	top: 596px;
 
 }
@@ -55,7 +55,7 @@ a{
 	font-size: 36px;
 	color: white;
 	position: absolute;
-	left: 482px;
+	left: 815px;
 	top: 850px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -67,8 +67,8 @@ a{
 	font-size: 24px;
 	color: white;
 	position: absolute;
-	left: 352px;
-	top: 910px;
+	left: 656px;
+	top: 914px;
 	text-transform: none;
 	letter-spacing: 2px;
 	list-style-type: none;
@@ -76,11 +76,12 @@ a{
 }
 
 hr{
-	color: white;
+	color: beige;
 	width: 100%;
 	position: absolute;
 	top: 849px;
 	height: 12px;
+	border: 2px;
         
 
 }
