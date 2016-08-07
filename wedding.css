@@ -1,5 +1,5 @@
 body{
-	background-color: #d1e0d7;
+	background-color: #ede4d2;
 }
 
 img{
@@ -29,7 +29,7 @@ header nav {
 
 a{
 	background-color: beige;
-	color: #d1e0d7;
+	color: #a7a8a1;
 	font-family: "essones-display";
 	font-size: 26px;
 	display: inline;
@@ -45,7 +45,7 @@ a{
 .wedding h1{
 	font-family: 'grafolita script';
 	font-size: 100px;
-	color: #d1e0d7;
+	color: #a7a8a1;
 	position: absolute;
 	left: 698px;
 	top: 596px;
@@ -54,8 +54,8 @@ a{
 
 .ceremony h1{
 	font-family: "essones-display";
-	font-size: 36px;
-	color: white;
+	font-size: 38px;
+	color: #a7a8a1;
 	position: absolute;
 	left: 815px;
 	top: 850px;
@@ -66,8 +66,8 @@ a{
 
 .ceremony ul{
 	font-family: "essones-display";
-	font-size: 24px;
-	color: white;
+	font-size: 28px;
+	color: #a7a8a1;
 	position: absolute;
 	left: 656px;
 	top: 914px;
