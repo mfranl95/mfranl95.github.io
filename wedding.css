@@ -82,7 +82,9 @@ hr{
 	position: absolute;
 	top: 849px;
 	height: 12px;
-	
-        
+}
 
+.cover{
+	background-image: cover;
+	opacity: 10px;
 }
