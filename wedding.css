@@ -84,7 +84,7 @@ hr{
 	height: 12px;
 }
 
-.cover{
+.cover img{
 	background-image: cover;
 	opacity: 10px;
 }
