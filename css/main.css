@@ -1,4 +1,4 @@
- @import url("https://use.typekit.net/rcr7xrb.css");
+ @import url("https://use.typekit.net/xaq3ozu.css")
 
 *{
 	margin:0;
@@ -69,6 +69,7 @@ header::after{
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 14px;
+	font-family:"triplex-serif",serif;
 	letter-spacing: 2px;
 }
 
@@ -152,7 +153,7 @@ header::after{
 
 h2{
 	font-size: 30px;
-	font-family: "mono45-headline", monospace;
+	font-family:"triplex-serif",serif;
 	text-align: center;
 	padding-top: 5px;
 	text-transform: none;
@@ -218,6 +219,7 @@ h2{
 .skill-set .desc h4{
 	margin-bottom: 10px;
 	font-size: 20px;
+	font-family:"triplex-serif",serif;
 	color: #985856;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -650,6 +652,7 @@ video{
 	width: 100%;
 	text-align: center;
 	height: 20px;
+	font-family:"triplex-serif",serif;
 	margin-left: 10px;
 }
 
