@@ -130,6 +130,7 @@ header::after{
     padding: 50px;
     margin-top: 25px;
     text-align: center;
+	background-image: url('../img/me-revised.jpg')
 }
 
 h1{
