@@ -161,6 +161,7 @@ a:active{
 .web-title{
 	margin-bottom: 80px;
 	display: block;
+	background-image:url('../img/content-bg.jpg);
 }
 
 .web-title h1{
