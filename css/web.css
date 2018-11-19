@@ -244,6 +244,17 @@ a:active{
 	padding: 30px;
 }
 
+.content h2{
+	font-size: 24px;
+	font-family: "orator-std", sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    color: #985856;
+}
+
 .content img{
 	box-shadow: 2px 2px 3px #000;
 	margin-left: 15px;
