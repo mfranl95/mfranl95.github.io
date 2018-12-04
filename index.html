@@ -1,245 +1,313 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta charset="utf-8">
 	<title>Mikeala Francis Designs</title>
-
-	<!--CSS-->
-	<link rel="stylesheet" href="css/linearicons.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<link rel="stylesheet" href="https://use.typekit.net/qck7coe.css">
-	<link rel="stylesheet" href="https://use.typekit.net/gpw4ymh.css">
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script src="js/main.js"></script>
+	<meta charset="utf-8">
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="css/cue.css">
+	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
+	<link rel="stylesheet" href="css/shop.css" class="color-switcher-link">
+	<link rel="stylesheet" href="css/mediaelementplayer-legacy.css">
+	<link rel="stylesheet" href="https://use.typekit.net/top7luh.css">
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+	<!--[if lt IE 9]>
+		<script src="js/vendor/html5shiv.min.js"></script>
+		<script src="js/vendor/respond.min.js"></script>
+		<script src="js/vendor/jquery-1.12.4.min.js"></script>
+	<![endif]-->
 </head>
+
 <body>
-	<!--Header Section-->
-	<header>
-		<div class="nav">
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="index.html#about">About</a></li>
-				<li><a href="index.html"><img src="img/logo.png"  alt="" class="logo"></a></li>
-				<li><a href="index.html#skills">Skills</a></li>
-				<li><a href="portfolio.html">Portfolio</a></li>
-				<li><a href="#">Contact</a></li>
-			</ul>
+	<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->
+	<div class="preloader">
+		<div class="preloader_image fa-spin"></div>
+	</div>
+	<!-- search modal -->
+	<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal"> <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true">
+			<i class="rt-icon2-cross2"></i>
+		</span>
+	</button>
+		<div class="widget widget_search">
+			<form method="get" class="searchform search-form form-inline" action="./">
+				<div class="form-group bottommargin_0"> <input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input"> </div> <button type="submit" class="theme_button no_bg_button">Search</button> </form>
 		</div>
-	</header>
-	<!-- End Header Section -->
-	<!-- Content Section -->
-	<section class="resume-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<h1>Mikeala Francis</h1>
-					<p>Graphic/Web Designer</p>
-					<a class="btn" href="img/resume.pdf" target="_blank" download="resume.pdf">Download Resume</a>
-				</div>
-			</div>
+	</div>
+	<!-- Unyson messages modal -->
+	<div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
+		<div class="fw-messages-wrap ls with_padding">
+			<!-- Uncomment this UL with LI to show messages in modal popup to your user: -->
+			<!--
+		<ul class="list-unstyled">
+			<li>Message To User</li>
+		</ul>
+		-->
 		</div>
-	</section>
-
-	<section class="about-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<h2>About Me</h2>
-					<p>Graphic and web design student at Miami International University of Art and Design. I am skilled in Photoshop,Illustrator,Indesign and After Effects. I am also skilled in HTML/CSS.</p>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="skills-section">
-		<div class="container">
-			<h2>Skills</h2>
-			<div class="row">
-				<div class="col-lg-3 -sm-6">
-					<div class="skill-set">
-						<div class="icon">
-							<span><i class="fas fa-desktop"></i></span>
-						</div>
-						<div class="desc">
-							<h4>HTML/CSS</h4>
-							<p>Web Design</p>
+	</div>
+	<!-- eof .modal -->
+	<!-- wrappers for visual page editor and boxed version of template -->
+	<div id="canvas">
+		<div id="box_wrapper">
+			<!-- template sections -->
+			<header class="page_header header_darkgrey header_transparent toggler_xs_right tall_header">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-12 display_table">
+							<div class="header_left_logo display_table_cell"> <a href="index.html" class="logo top_logo">
+                        <img src="images/logo.png" alt="">
+                    </a> </div>
+							<div class="header_mainmenu display_table_cell text-center">
+								<!-- main nav start -->
+								<nav class="mainmenu_wrapper">
+									<ul class="mainmenu nav sf-menu">
+										<li class="active"> <a href="index.html#canvas">Home</a>
+										</li>
+										<li> <a href="index.html#about">About</a> </li>
+										<li> <a href="index.html#skills">Skills</a> </li>
+										<li> <a href="index.html#portfolio">Portfolio</a> </li>
+										<li> <a href="index.html#contact">Contact</a> </li>
+									</ul>
+								</nav>
+								<!-- eof main nav -->
+								<!-- header toggler --><span class="toggle_menu"><span></span></span>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 -sm-6">
-					<div class="skill-set">
-						<div class="icon">
-							<span><i class="fas fa-cloud"></i></span>
-						</div>
-						<div class="desc">
-							<h4>Adobe Creative</h4>
-							<p>Photoshop, Illustrator, Indesign, After Effects</p>
-						</div>
-					</div>
+			</header>
+			<section class="intro_section page_mainslider ds">
+				<div class="flexslider" data-dots="true" data-nav="te">
+					<ul class="slides">
+						<li> <img src="images/slide01.jpg" alt="">
+							<div class="container">
+								<div class="row">
+									<div class="col-sm-12 text-center">
+										<div class="slide_description_wrapper">
+											<div class="slide_description">
+												<div class="intro-layer" >
+													<h2> Mikeala Francis </h2>
+												</div>
+											</div>
+											<!-- eof .slide_description -->
+										</div>
+										<!-- eof .slide_description_wrapper -->
+									</div>
+									<!-- eof .col-* -->
+								</div>
+								<!-- eof .row -->
+							</div>
+							<!-- eof .container -->
+						</li>
+					</ul>
 				</div>
-				<div class="col-lg-3 -sm-6">
-					<div class="skill-set">
-						<div class="icon">
-							<span><i class="fas fa-pencil-alt"></i></span>
-						</div>
-						<div class="desc">
-							<h4>Logo Design</h4>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 -sm-6">
-					<div class="skill-set">
-						<div class="icon">
-							<span><i class="fas fa-font"></i></span>
-						</div>
-						<div class="desc">
-							<h4>Copy-Writing</h4>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="portfolio-section">
-		<div class="container">
-			<h2>Portfolio</h2>
-			<div class="row">
+				<!-- eof flexslider -->
+			</section>
+			<section id="about" class="ds ms page_about parallax section_padding_top_130 section_padding_bottom_75 table_section table_section_md columns_margin_bottom_30 page_footer" style="background-color: #fff !important;">
 				<div class="container">
-        			<div class="row justify-content-center mb-5">
-          				<div class="col-md-10 text-center">
-          			</div>
-        		</div>
-        		<div class="row">
-          			<div class="col">
-           				<div class="card-columns">
-             				<div class="card border-0 mb-4">
-               		 			<a href="portfolio.html#animate" class="pb_hover-zoom image-popup">
-                  					<img class="img-fluid" src="img/animate.jpg" alt="Image caption here">
-                  					<span><h3>Animations/Videos</h3></span>
-                				</a>
-              				</div>
-              				<div class="card border-0 mb-4">
-				                <a href="portfolio.html#photo" class="pb_hover-zoom image-popup">
-				                  <img class="img-fluid" src="img/camera-pex.jpg" alt="Image caption here">
-				                  <span><h3>Photography</h3></span>
-				                </a>
-              				</div>
-              				<div class="card border-0 mb-4">
-                				<a href="portfolio.html#print" class="pb_hover-zoom image-popup">
-                  					<img class="img-fluid" src="img/print.jpg" alt="Image caption here">
-                  					<span><h3>Print</h3></span>
-                				</a>
-              				</div>
-              				<div class="card border-0 mb-4">
-                				<a href="portfolio.html#vector" class="pb_hover-zoom image-popup">
-                  					<img class="img-fluid" src="img/vector.jpg" alt="Image caption here">
-                  					<span><h3>Vector Illustrations</h3></span>
-                				</a>
-              				</div>
-              				<div class="card border-0 mb-4">
-                				<a href="portfolio.html#web" class="pb_hover-zoom image-popup">
-                  					<img class="img-fluid" src="img/code.jpg" alt="Image caption here">
-                  					<span><h3>Web Design</h3></span>
-                				</a>
-              				</div>
-              			</div>
-              		</div>
-              	</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="contact-section">
-		<h2>Contact</h2>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<span><i class="fas fa-mobile"></i>954-558-5005</span>
-				</div>
-				<div class="col-md-4">
-					<span><i class="fas fa-at"></i>mikealafrancis@gmail.com</span>
-				</div>
-				<div class="col-md-4">
-					<span>
-						<a href="#"><i class="fab fa-facebook-f"></i></a>
-						<a href="#"><i class="fab fa-twitter"></i></a>
-						<a href="#"><i class="fab fa-instagram"></i></a>
-					</span>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<footer>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3">
-					<h5 class="footer-title">Skills</h5>
-					<ul class="footer-info">
-						<li><a href="#">Adobe Creative</a></li>
-						<li><a href="#">HTML/CSS</a></li>
-						<li><a href="#">Logo Design</a></li>
-					</ul>
-				</div>
-				<div class="col-md-3">
-					<h5 class="footer-title">Portfolio</h5>
-					<ul class="footer-info">
-						<li><a href="portfolio.htl">Animations/Videos</a></li>
-						<li><a href="portfolio.html">Photography</a></li>
-						<li><a href="portfolio.html">Print</a></li>
-						<li><a href="portfolio.html">Vector Illustrations</a></li>
-						<li><a href="portfolio.html">Web Design</a></li>
-					</ul>
-				</div>
-				<div class="col-md-3">
-					<h5 class="footer-title">Print Material</h5>
-					<ul class="footer-info">
-						<li><a href="inova.html">Inova</a></li>
-						<li><a href="trini-seaway.html">Trini Seaway</a></li>
-						<li><a href="hope.html">Hope Movement</a></li>
-						<li><a href="minotaur.html">Minotaur</a></li>
-						<li><a href="serenity.html">Serenity Spa</a></li>
-						<li><a href="angostura.html">Angostura Packaging</a></li>
-					</ul>
-				</div>
-				<div class="col-md-3">
-					<h5 class="footer-title">Web</h5>
-					<ul class="footer-info">
-						<li><a href="gypsy.html">Gypsy Incentive</a></li>
-						<li><a href="hope.html">Hope Movement</a></li>
-						<li><a href="pola.html">Pola Photography</a></li>
-						<li><a href="maggie.html">Maggie's Bakery</a></li>
-						<li><a href="miamivirtuosi.html">Miami Virtuosi</a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<p class="copyright">Copyright &copyMikeala Francis 2018 </p>
-					<div class="footer-contact">
-						<li><span><i class="fas fa-mobile"></i>954-558-5005</span></li>
-						<li><span><i class="fas fa-at"></i>mikealafrancis@gmail.com</span></li>
-						<div class="footer-social">
-							<a href="#"><i class="fab fa-facebook-f"></i></a>
-							<a href="#"><i class="fab fa-twitter"></i></a>
-							<a href="#"><i class="fab fa-instagram"></i></a>
+					<div class="row">
+						<div class="col-md-6 text-center">
+							<div> <img src="images/about.jpg" alt=""> </div>
+						</div>
+						<div class="col-md-6">
+							<h2 class="section_header">About Me</h2>
+							<p style="color: #000;">Graphic and web design student at Miami International University of Art and Design. I am skilled in Photoshop,Illustrator,Indesign and After Effects. I am also skilled in HTML/CSS.</p><br>
+							<div class="header_center_buttons display_table_cell text-center hidden-xs"> <a href="documents/Resume.pdf" class="theme_button inverse min_width_button" target="_blank">View Resume</a> </div>
 						</div>
 					</div>
 				</div>
-			</div>
+			</section>
+			<section id="skills" class="ds ms section_padding_top_150 section_padding_bottom_150">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<h2 class="section_header ">Skills</h2>
+							<div class="owl-carousel topmargin_60" data-dots="false" data-nav="true" data-responsive-lg="4">
+								<div class="vertical-item content-absolute hover-entry-content">
+									<div class="item-media mutted-media ds"> <img src="images/events/01.jpg" alt="">
+									</div>
+									<div class="item-content cs">
+										<h3 class="entry-title bottommargin_0"> <a href="#">Web Design</a> </h3>
+										<p class="small-text bottommargin_0"> HTML/CSS</p>
+									</div>
+								</div>
+								<div class="vertical-item content-absolute hover-entry-content">
+									<div class="item-media mutted-media ds"> <img src="images/events/02.jpg" alt="">
+									</div>
+									<div class="item-content cs">
+										<h3 class="entry-title bottommargin_0"> <a href="#">Adobe Cloud</a> </h3>
+										<p class="small-text bottommargin_0">Photoshop, Illustrator, Indesign, After Effects</p>
+									</div>
+								</div>
+								<div class="vertical-item content-absolute hover-entry-content">
+									<div class="item-media mutted-media ds"> <img src="images/events/03.jpg" alt="">
+									</div>
+									<div class="item-content cs">
+										<h3 class="entry-title bottommargin_0"> <a href="#">Brand Design</a> </h3>
+										<p class="small-text bottommargin_0">Logo Development, Corporate Identity</p>
+									</div>
+								</div>
+								<div class="vertical-item content-absolute hover-entry-content">
+									<div class="item-media mutted-media ds"> <img src="images/events/04.jpg" alt="">
+									</div>
+									<div class="item-content cs">
+										<h3 class="entry-title bottommargin_0"> <a href="#">Copywriting</a> </h3>
+										<p class="small-text bottommargin_0"></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="portfolio" class="ds ms section_padding_top_150 section_padding_bottom_130">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<h2 class="section_header">Portfolio</h2>
+							<div class="owl-carousel topmargin_60" data-responsive-lg="3" data-dots="true">
+								<article class="vertical-item content-padding with_background  text-center offset_button">
+									<div class="item-media top_rounded overflow_hidden"> <img src="images/gallery/animate.jpg" alt="">
+										<div class="media-links"> <a href="animations.html" class="abs-link"></a> </div>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<h4 class="entry-title"> <a href="animations.html">Animations/Videos</a> </h4>
+										</header>
+									</div>
+								</article>
+								<article class="vertical-item content-padding with_background  text-center offset_button">
+									<div class="item-media top_rounded overflow_hidden"> <img src="images/gallery/app.jpg" alt="">
+										<div class="media-links"> <a href="apps.html" class="abs-link"></a> </div>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<h4 class="entry-title"> <a href="apps.html">App Design</a> </h4>
+										</header>
+									</div>
+								</article>
+								<article class="vertical-item content-padding with_background  text-center offset_button">
+									<div class="item-media top_rounded overflow_hidden"> <img src="images/gallery/photography.jpg" alt="">
+										<div class="media-links"> <a href="photography.html" class="abs-link"></a> </div>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<h4 class="entry-title"> <a href="photography.html">Photography</a> </h4>
+										</header>
+									</div>
+								</article>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<div class="owl-carousel topmargin_60" data-responsive-lg="3" data-dots="true">
+								<article class="vertical-item content-padding with_background  text-center offset_button">
+									<div class="item-media top_rounded overflow_hidden"> <img src="images/gallery/print.jpg" alt="">
+										<div class="media-links"> <a href="print.html" class="abs-link"></a> </div>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<h4 class="entry-title"> <a href="print.html">Print Media</a> </h4>
+										</header>
+									</div>
+								</article>
+								<article class="vertical-item content-padding with_background  text-center offset_button">
+									<div class="item-media top_rounded overflow_hidden"> <img src="images/gallery/vector.jpg" alt="">
+										<div class="media-links"> <a href="vectors.html" class="abs-link"></a> </div>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<h4 class="entry-title"> <a href="vectors.html">Vectors</a> </h4>
+										</header>
+									</div>
+								</article>
+								<article class="vertical-item content-padding with_background  text-center offset_button">
+									<div class="item-media top_rounded overflow_hidden"> <img src="images/gallery/web.jpg" alt="">
+										<div class="media-links"> <a href="web.html" class="abs-link"></a> </div>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<h4 class="entry-title"> <a href="web.html">Web Design</a> </h4>
+										</header>
+									</div>
+								</article>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<footer id="contact" class="page_footer ds section_padding_top_100 section_padding_bottom_100 columns_padding_25">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<div class="widget widget_text">
+								<h4 class="widget-title"> Contact </h4>
+								<div>
+									<div class="media small-media inline-block">
+									</div><br>
+									<div class="media small-media inline-block">
+										<div class="media-left"> <i class="fa fa-phone highlight" aria-hidden="true"></i> </div>
+										<div class="media-body"> 954-558-5005 </div>
+									</div><br>
+									<div class="media small-media inline-block">
+										<div class="media-left"> <i class="fa fa-pencil highlight" aria-hidden="true"></i> </div>
+										<div class="media-body"> mikealafrancis@gmail.com </div>
+									</div><br>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<section class="ds ms page_copyright section_padding_top_40 section_padding_bottom_40" style="background-color: #985856">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<p>&copy; Mikeala Francis 2018.</p>
+							<div> <a class="social-icon color-bg-icon round-icon socicon-facebook" href="#" title="Facebook"></a> <a class="social-icon color-bg-icon round-icon socicon-instagram"
+								    href="#" title="Instagram"></a> </div>
+						</div>
+					</div>
+				</div>
+			</section>
 		</div>
-	</footer>
-
-
-	<!--End Content Section-->
+		<!-- eof #box_wrapper -->
+	</div>
+	<!-- eof #canvas -->
+	<script src="js/compressed.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/mediaelement-and-player.min.js"></script>
+	<script src="js/mediaelement-migrate.min.js"></script>
+	<script>
+		/* <![CDATA[ */
+		var _cueSettings = {
+			"l10n":
+			{
+				"nextTrack": "Next Track",
+				"previousTrack": "Previous Track",
+				"togglePlayer": "Toggle Player",
+				"togglePlaylist": "Toggle Playlist"
+			}
+		};
+		/* ]]> */
+	</script>
+	<script src="js/cue.min.js"></script>
 </body>
+
 </html>
